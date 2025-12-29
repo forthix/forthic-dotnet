@@ -157,7 +157,7 @@ var zonedDateTime = ZonedDateTime.FromDateTimeOffset(
 
 ## License
 
-Apache 2.0
+BSD 2-CLAUSE
 
 ## Links
 
