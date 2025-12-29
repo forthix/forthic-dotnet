@@ -7,15 +7,6 @@ using NodaTime.Text;
 namespace Forthic;
 
 // ============================================================================
-// Literal Handler Type
-// ============================================================================
-
-/// <summary>
-/// Literal handler: takes string, returns parsed value or null if can't parse
-/// </summary>
-public delegate object? LiteralHandler(string str);
-
-// ============================================================================
 // Boolean Literals
 // ============================================================================
 
